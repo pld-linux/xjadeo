@@ -1,5 +1,4 @@
 Summary:	jack video monitor
-Summary(pl.UTF-8):	jack video monitor
 Name:		xjadeo
 Version:	0.8.8
 Release:	1
