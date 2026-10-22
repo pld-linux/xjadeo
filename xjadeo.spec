@@ -1,11 +1,11 @@
 Summary:	jack video monitor
 Name:		xjadeo
-Version:	0.8.13
-Release:	2
+Version:	0.8.15
+Release:	1
 License:	GPL v2
 Group:		Applications
 Source0:	http://downloads.sourceforge.net/xjadeo/%{name}-%{version}.tar.gz
-# Source0-md5:	37210f929853f3de35973501f7b4615b
+# Source0-md5:	76d294fc0357c9e7290e593439e5ec19
 URL:		http://xjadeo.sf.net/
 BuildRequires:	Mesa-libGLU-devel
 BuildRequires:	SDL-devel
